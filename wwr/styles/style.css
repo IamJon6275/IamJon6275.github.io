@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5, h6 {
+    font-size: 12px;
+}
+
+
+
+
+
+body {
+    background-color: green;
+}
+
+section, h1 {
+    background-color: skyblue;
+    font-size: 25px;
+}
+
+.latin {
+    color: white;
+    text-align: center;
+    margin: 100px 50px;
+    padding: 25px;
+    border: 10px solid black;
+    font-family: 'Ephesis', cursive;
+    font-size: 45px;
+}
+
+#hello {
+    color:black
+}
