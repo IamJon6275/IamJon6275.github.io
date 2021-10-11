@@ -16,8 +16,11 @@ body {
     font-family: var(--primary-font);
 }
 .left-align {
+    display: flex;
+    justify-content: center;
+    align-items: left;
     text-align: left;
-    padding-left: 650px;
+    padding-right: 90px;
 }
 .bold {
     text-align: center
