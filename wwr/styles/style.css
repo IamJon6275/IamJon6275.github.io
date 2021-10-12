@@ -98,3 +98,7 @@ h4 {
 footer h3 a:hover {
     text-decoration: underline;
 }
+
+.icon {
+    width: 80px;
+}
