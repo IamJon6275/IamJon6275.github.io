@@ -89,7 +89,7 @@ main section img {
 
 .msg h2 {
     color: white;
-    font-family: 'Patua One';
+    font-family: 'Patua One', sans-serif, serif;
 }
 
 .msg p {
