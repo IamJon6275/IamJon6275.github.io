@@ -13,7 +13,7 @@ div {
 section {
     display: grid;
     grid-template-columns: 7% max-content 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr max-content;
+    grid-template-rows: 1fr 1fr 1fr 1fr max-content 1fr max-content;
     box-sizing: border-box;
     justify-content: center;
     padding-top: 50px;
@@ -52,6 +52,7 @@ p {
 
 #label {
     color: gray;
+    padding-bottom: 12px;
 }
 
 button {
