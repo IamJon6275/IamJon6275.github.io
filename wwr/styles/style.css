@@ -223,6 +223,14 @@ footer h3 a:hover {
     padding-top: 10px;
 }
 
+.rivers-grid {
+    display: grid;
+    grid-template-rows: 1fr max-content;
+    text-align: center;
+    padding-top: 50px;
+    margin: 0px 100px 0px 100px;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
