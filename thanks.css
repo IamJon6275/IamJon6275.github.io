@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
+div {
+    display: grid;
+    grid-template-rows: 1fr max-content;
+    text-align: center;
+}
+
+.Christ {
+    width: 500px
+}
+
+p {
+    font-family: MedievalSharp;
+}
